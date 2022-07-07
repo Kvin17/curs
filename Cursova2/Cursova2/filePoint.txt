@@ -1,0 +1,9 @@
+Tochka1(x,y): 60 30
+Tochka2(x,y): 100 50
+Tochka3(x,y): 150 100
+Tochka4(x,y): 140  150
+Tochka5(x,y): 100 200
+Tochka6(x,y): 50  180
+Tochka7(x,y): 15 130
+Tochka8(x,y): 10  110
+Tochka9(x,y): 5 70

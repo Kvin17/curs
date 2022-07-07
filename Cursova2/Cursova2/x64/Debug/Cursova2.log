@@ -1,0 +1,12 @@
+﻿  Cursova2Dlg.cpp
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(140,132): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(140,101): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(140,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(140,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(146,132): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(146,101): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(146,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2.h(146,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2Dlg.cpp(228,10): warning C4244: инициализация: преобразование "intptr_t" в "int", возможна потеря данных
+C:\Users\sukhy\source\repos\Cursova2\Cursova2\Cursova2Dlg.cpp(229,11): warning C4244: инициализация: преобразование "intptr_t" в "int", возможна потеря данных
+  Cursova2.vcxproj -> C:\Users\sukhy\source\repos\Cursova2\x64\Debug\Cursova2.exe
